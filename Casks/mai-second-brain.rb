@@ -17,7 +17,7 @@ cask "mai-second-brain" do
 
   # Sparkle updates the app in place, so brew shouldn't try to out-update it.
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "MAI Second Brain.app"
 
