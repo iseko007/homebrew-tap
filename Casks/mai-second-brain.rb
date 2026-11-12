@@ -1,6 +1,6 @@
 cask "mai-second-brain" do
-  version "1.42"
-  sha256 "1afc27000dc128cf817d270cd887f84e042af1c0f675697cf916397ad652a283"
+  version "1.43"
+  sha256 "bb748900bff9c0d292887fc6e7f62cb375a468e345f94f9e04668b73b27daae1"
 
   url "https://fierlsebrtzlfmspduaq.supabase.co/storage/v1/object/public/downloads/mac/MAI-Mac-#{version}.dmg",
       verified: "fierlsebrtzlfmspduaq.supabase.co/storage/v1/object/public/downloads/"
